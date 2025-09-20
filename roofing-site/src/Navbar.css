@@ -1,0 +1,16 @@
+.navContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-size: 40px;
+    border-bottom: 3px solid black;
+    /* position: fixed; */
+}
+
+.mainLogo {
+    width: 200px;
+    /* Sets a fixed width */
+    height: 150px;
+    /* Sets a fixed height */
+}
