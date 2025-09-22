@@ -1,12 +1,7 @@
-import { useState } from 'react'
-import Navbar from './Navbar'
-
 function Homepage() {
     return (
         <>
-
-            <Navbar />
-
+            <h1>Home and about</h1>
         </>
     )
 }

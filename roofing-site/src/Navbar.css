@@ -3,7 +3,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    font-size: 40px;
+    font-size: 30px;
     border-bottom: 3px solid black;
     /* position: fixed; */
 }
